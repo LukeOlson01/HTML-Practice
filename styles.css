@@ -1,0 +1,26 @@
+body {
+	background-color: gold;
+}
+
+p, h5, h2 {
+	font-family: Arial;
+}
+
+ul {
+	list-style-type: square;
+}
+
+ul li {
+	background: LightGray;
+}
+
+th, td {
+	border: 1px solid black;
+	background: LightGray;
+}
+
+table {
+	border: 1px solid black;
+	width: 100%;
+}
+
